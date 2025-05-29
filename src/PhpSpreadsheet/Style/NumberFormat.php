@@ -11,6 +11,7 @@ class NumberFormat extends Supervisor
 
     const FORMAT_TEXT = '@';
 
+    const FORMAT_NUMBER_INDONESIA = '#,##0';
     const FORMAT_NUMBER = '0';
     const FORMAT_NUMBER_0 = '0.0';
     const FORMAT_NUMBER_00 = '0.00';
