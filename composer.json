@@ -1,5 +1,6 @@
 {
     "name": "phpoffice/phpspreadsheet",
+    "version": "1.29.10",
     "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": [
         "PHP",
@@ -13,7 +14,7 @@
     ],
     "config": {
         "platform": {
-            "php" : "8.1.99"
+            "php": "8.1.99"
         },
         "process-timeout": 600,
         "sort-packages": true,
